@@ -7,4 +7,4 @@
 
 ## Demo 
 
-![Demo](https://raw.githubusercontent.com/NgandalaLopes/Module-12-Employee-Tracker/master/ezgif.com-video-to-gif.gif)
+![Demo]()
