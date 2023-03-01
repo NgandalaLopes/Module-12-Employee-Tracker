@@ -7,4 +7,4 @@
 
 ## Demo 
 
-![Demo]()
+![Demo](https://github.com/NgandalaLopes/Module-12-Employee-Tracker/blob/master/demo.gif)
